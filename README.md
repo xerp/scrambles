@@ -7,7 +7,7 @@ A fun game to check if two words can be scrambled.
 In console, run this command
 > lein ring server
 
-Enjoy! :)
+Enjoy! 😎
 
 ## License
 
