@@ -4,7 +4,7 @@ A fun game to check if two words can be scrambled.
 
 ## How to run
 
-In console, run this command
+In console, run this command and if the browser was not opened, open it and go to `http://localhost:3000`
 > lein ring server
 
 Enjoy! 😎
