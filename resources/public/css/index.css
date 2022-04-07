@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+div.console {
+    background-color: black;
+    border-color: gray;
+    border-style: double;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+    color: white;
+
+    height: 500px;
+    max-height: 500px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+div.scramble-form, div.scramble-form > form, div.console {
+    margin-top: 30px;
+}
+
+div.results {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+div.results > ul > li {
+    list-style: none;
+}
+
